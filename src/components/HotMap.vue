@@ -25,7 +25,7 @@ export default {
         style: "mapbox://styles/mapbox/dark-v10",
         center: [109.0283203125, 34.05265942137599],
         zoom: 3.5,
-        // pitch: 0, //视野倾斜，0-60///
+        // pitch: 0, //视野倾斜，0-60
         // bearing: -17.6,//视野旋转角度
       });
       map.on("load", function () {
